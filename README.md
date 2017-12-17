@@ -12,8 +12,6 @@ Lagrange is a minimalist Jekyll theme for running a personal blog or site for fr
 
 * [Google Analytics](https://www.google.com/analytics/) support.
 
-* Commenting support powered by [Disqus](https://disqus.com/).
-
 * Optimized for search engines.
 
 * LaTeX support through [MathJax](https://www.mathjax.org/).
@@ -37,7 +35,6 @@ Lagrange is a minimalist Jekyll theme for running a personal blog or site for fr
    6. [YAML Front Block Matter](#yaml-front-block-matter)
 4. [Features](#features)
    1. [Design Considerations](#design-considerations)
-   2. [Disqus](#disqus)
    3. [Google Analytics](#google-analytics)
    4. [RSS Feeds](#rss-feeds)
    5. [Social Media Icons](#social-media-icons)
@@ -163,10 +160,6 @@ image:
 ### Design Considerations
 
 Lagrange was designed to be a minimalist theme in order for the focus to remain on your content. For example, links are signified mainly through an underline text-decoration, in order to maximize the perceived affordance of clickability (I originally just wanted to make the links a darker shade of grey).
-
-### Disqus
-
-Lagrange supports comments at the end of posts through [Disqus](https://disqus.com/). In order to activate Disqus commenting, set `disqus.comments` to true in the `_data/settings.yml` file. If you do not have a Disqus account already, you will have to set one up, and create a profile for your website. You will be given a `disqus_shortname` that will be used to generate the appropriate comments sections for your site. More information on [how to set up Disqus](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/).
 
 ### Google Analytics
 
