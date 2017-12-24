@@ -132,10 +132,14 @@ blockquote {
   font-weight: normal;
 }
 
+.masthead-title .ff-logo {
+  margin-bottom: 10px;
+}
+
 .masthead-title .blog-logo {
   position: absolute;
-  height: 140px;
-  margin-top: 56px;
+  height: 150px;
+  margin-top: 66px;
   margin-left: 225px;
 }
 
@@ -181,6 +185,14 @@ blockquote {
 @media (max-width: 30rem) {
   .posts h1 {
     font-size: 1.5rem;
+  }
+  .masthead-title .ff-logo {
+    width: 250px;
+  }
+  .masthead-title .blog-logo {
+    height: 130px;
+    margin-top: 57px;
+    margin-left: 180px;
   }
 }
 
@@ -254,7 +266,7 @@ blockquote {
 */
 
 .menu {
-  padding-top: 0rem;
+  padding-top: 0.5rem;
   display: block;
 }
 
