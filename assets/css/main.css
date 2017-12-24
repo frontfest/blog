@@ -108,7 +108,7 @@ blockquote {
 */
 
 .masthead {
-  padding: 1rem 2rem;
+  padding: 1rem;
   margin-bottom: 4rem;
   font-family: "JosefinSans", sans-serif;
   border-bottom: 3px solid #444;
@@ -124,14 +124,16 @@ blockquote {
   color: #505050;
 }
 
+.masthead-title-left {
+  display: flex;
+}
+
 .masthead-subtitle {
-  font-family: 'Bellatrix';
   font-family: 'Bellatrix';
   font-size: 150px;
   color: #aaa;
-  position: relative;
-  top: 20px;
-  left: -50px;
+  margin-top: 110px;
+  margin-left: -50px;
 }
 
 /*
@@ -161,11 +163,11 @@ blockquote {
 
 .post-date {
   display: block;
-  margin-top:3px;
+  margin-top: 10px;
   margin-bottom: 1rem;
   color: #9a9a9a;
   font-family: 'JosefinSans', sans-serif;
-  font-size:0.8rem;
+  font-size: 0.8rem;
 }
 
 @media (max-width: 30rem) {
@@ -225,7 +227,7 @@ blockquote {
 .footer {
   color: #555;
   text-align: center;
-  padding: 2rem;
+  padding: 2rem 0;
   border-top: 3px solid #444;
 }
 
@@ -244,7 +246,7 @@ blockquote {
 */
 
 .menu {
-  padding-top: 0.5rem;
+  padding-top: 0rem;
   display: block;
 }
 
@@ -260,6 +262,7 @@ blockquote {
 
 .social-icons {
   float: right;
+  margin-top: -0.5rem;
 }
 
 .social-icons a {
@@ -267,7 +270,7 @@ blockquote {
   font-size: 1.5rem;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 36em) {
   .social-icons {
     float: left;
     padding-top: 0px;
