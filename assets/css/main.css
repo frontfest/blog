@@ -131,7 +131,7 @@ blockquote {
 .masthead-subtitle {
   font-family: 'Bellatrix';
   font-size: 150px;
-  color: #aaa;
+  color: orange;
   margin-top: 110px;
   margin-left: -50px;
 }
@@ -153,6 +153,11 @@ blockquote {
 
 .post-container {
   margin-bottom: 4rem;
+}
+
+.post-container h1 {
+  line-height: 2.2rem;
+  text-transform: uppercase;
 }
 
 .posts {
