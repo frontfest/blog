@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conoce a Machiina, patrocinador Platinum de FrontFest 2018
-image: machiina.png
+image: machiina.jpg
 ---
 
 
@@ -17,12 +17,19 @@ Les hemos pedido que se describan y aquí está lo que nos han dicho.
 “ Los Machiinas somos:
 
 **M**uy amigos de optimizar procesos y enfocarnos en tareas que aportan valor.
+
 **A**bsolutamente fans de la I+D+i incorporada en nuestro día a día.
+
 **C**apaces de dar lo mejor de nosotros en cada situación.
+
 **H**onestos con nuestros clientes.
+
 **I**ncreíblemente ágiles en el proceso de ejecución (en otros sitios lo llaman programación).
+
 **I**nsistentes hasta el hartazgo en eso de conocer a las personas para las que trabajamos.
+
 **N**ada partidarios de esclavizarnos a una herramienta o a un proveedor.
+
 **A**morosos, pero con mucho carácter. “
 
 No tienen mesa de ping-pong, ni consola, ni sala de masajes, pero a cambio creen que la gente responsable se organiza bien y por eso tienen horario continuo y entrada flexible durante todo el año. Además, disfrutan de varias jornadas de teletrabajo al mes, cada uno  se las guisa como quiere. La oficina está en el centro de Madrid , rodeada de zonas comerciales, bares de todos los pelajes, restaurantes y a pocos minutos andando del estadio Santiago Bernabéu.
