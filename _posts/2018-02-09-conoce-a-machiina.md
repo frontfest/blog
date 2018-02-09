@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conoce a Machiina, patrocinador Platinum de FrontFest 2018
-image: machiina.png
+image: machiina.jpg
 ---
 
 
