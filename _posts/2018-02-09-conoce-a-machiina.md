@@ -34,4 +34,6 @@ Les hemos pedido que se describan y aquí está lo que nos han dicho.
 
 No tienen mesa de ping-pong, ni consola, ni sala de masajes, pero a cambio creen que la gente responsable se organiza bien y por eso tienen horario continuo y entrada flexible durante todo el año. Además, disfrutan de varias jornadas de teletrabajo al mes, cada uno  se las guisa como quiere. La oficina está en el centro de Madrid , rodeada de zonas comerciales, bares de todos los pelajes, restaurantes y a pocos minutos andando del estadio Santiago Bernabéu.
 
-Si crees que podríais mergearos en un binomio de éxito, aprovecha la ocasión y pásate por su stand a conocerlos durante el FrontFest 2018. ¡Te estarán esperando!
+Echa un vistazo a sus [ofertas de empleo] [ofertas] y si crees que podríais mergearos en un binomio de éxito, aprovecha la ocasión y pásate por su stand a conocerlos durante el FrontFest 2018. ¡Te estarán esperando!
+
+[ofertas]: https://machiina.com/empleo/
