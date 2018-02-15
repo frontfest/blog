@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Conoce a Paradigma, patrocinador Platinum de FrontFest 2018
+image: paradigma.png
 ---
 
 Paradigma Digital es una empresa tecnológica con más de 400 profesionales. Desde nuestras oficinas en Pozuelo, trabajamos a diario para conseguir reinventar el futuro digital de las grandes compañías.
