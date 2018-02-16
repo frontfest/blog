@@ -5,7 +5,6 @@ image: frontfest-ontruck-hero.jpg
 ---
 
 **OnTruck** es la startup que está transformando el transporte de mercancías a nivel europeo. OnTruck es una plataforma online que permite a las empresas contratar sus transportes de mercancías paletizada de forma sencilla, con completa flexibilidad y transparencia al conocer al instante el precio del transporte.
-De esta manera, a través de una app móvil, los transportistas reciben una oferta para realizar una carga en la que se les indica el tipo de envio, origen, destino, el tiempo de recogida y entrega y la remuneración económica del mismo.
 
 De esta manera, a través de una app móvil, los transportistas reciben una oferta para realizar una carga en la que se les indica el tipo de envio, origen, destino, el tiempo de recogida y entrega y la remuneración económica del mismo.
 
