@@ -1,7 +1,9 @@
 ---
 layout: post
-title: ¡Participa en nuestro Call for Proposals para FrontFest'19!
+title: ¡Participa en el Call for Proposals para FrontFest'19!
 ---
+
+El Call for Proposals estará abierto entre el **7 de septiembre** y el **11 de noviembre** de 2018.
 
 Nuestro objetivo es que FrontFest sea una experiencia interesante para los asistentes y toda la comunidad en general, donde podamos conocernos inspirarnos, recabar ideas y aprender de gente experimentada, pero también que nos permita descubrir nuevos talentos del mundo del frontend.
 
@@ -18,6 +20,6 @@ Si tu propuesta resulta seleccionada, ten en cuenta que:
 
 FrontFest es una conferencia sin ánimo de lucro y con vocación integradora. No queremos cerrar puertas a nadie ni que dejes de enviar una propuesta por motivos sociales o económicos. Si tienes cualquier duda, pregunta o idea para mejorar, escríbenos un email o contacta a través de las redes sociales.
 
-Puedes mandar tu propuesta [aquí][cfp]. El Call for Proposals estará activo entre el 7 de septiembre y el 11 de noviembre de 2018.
+Puedes mandar tu propuesta [aquí][cfp].
 
 [cfp]: https://www.koliseo.com/frontfest/2019/r4p/5733179054882816#/
