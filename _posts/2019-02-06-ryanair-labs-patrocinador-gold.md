@@ -16,7 +16,7 @@ visitas al mes y con más de 300 reservas por minuto.
 En Ryanair Labs contamos con un ambiente de trabajo innovador e internacional donde utilizamos
 las últimas tecnologías y nos encontramos buscando talento para que se una a nuestro equipo Front
 End (JavaScript, Angular, Node.js). Si te interesa saber más sobre nuestras oportunidades y que
-podemos ofrecerte no dudes en visitar: [https://careers.ryanair.com/][]
+podemos ofrecerte no dudes en visitar: [https://careers.ryanair.com/][carees]
 
 Nuestros equipos trabajan en Agile y están formados por los desarrolladores, los QA, los Business
 Analyst y nuestros Scrum Masters, trabajando en un ambiente flexible donde todas las ideas para
