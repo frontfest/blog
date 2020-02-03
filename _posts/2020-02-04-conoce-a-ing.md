@@ -3,6 +3,7 @@ layout: post
 title: ING, patrocinador Gold en FrontFest 2020
 image: IMG-FrontFest-V2.jpg
 date: 2020-02-04
+published: false
 ---
 
 ING, un banco con alma de startup en el que trabajamos más de mil profesionales. A través de metodologías Agile tenemos el objetivo de poner a disposición de nuestros clientes los mejores productos y servicios en el menor tiempo posible.
