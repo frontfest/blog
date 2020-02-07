@@ -2,8 +2,7 @@
 layout: post
 title: Plain Concepts, patrocinador Platinum FrontFest 2020
 image: plain01.PNG
-date: 2020-02-06
-published: false
+date: 2020-02-07
 ---
 
 Fundada en 2006 por 4 MVPS de Microsoft, [Plain Concepts](http://www.plainconcepts.com) nace con el objetivo de desarrollar y facilitar a todo tipo de compañías la adopción de nuevas tecnologías destinadas a mejorar su productividad y procesos.
