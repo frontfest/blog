@@ -26,7 +26,7 @@ También, recién salido del horno, tenemos una nueva posición abierta para per
 #### NICE TO HAVE
 * Dotes de liderazgo para el desarrollo de aplicaciones.
 
-¿Eres tú la persona que estamos buscando? ¡No lo pienses más y contacta con nuestro equipazo de [Talento] (mailto:talento@kairosds.com)!
+¿Eres tú la persona que estamos buscando? ¡No lo pienses más y contacta con nuestro equipazo de [Talento](mailto:talento@kairosds.com)!
 
-[Kairós DS] (https://www.kairosds.com/) es una boutique tecnológica creada en España en 2014, cuya actividad principal es la transformación digital de empresas basadas en la metodología AGILE como proceso de cambio, generación de modelos de negocio rentables y con el time to market necesario. 
+[Kairós DS](https://www.kairosds.com/) es una boutique tecnológica creada en España en 2014, cuya actividad principal es la transformación digital de empresas basadas en la metodología AGILE como proceso de cambio, generación de modelos de negocio rentables y con el time to market necesario. 
 Especializada en el ámbito de gobierno digital/agile y soluciones digitales, actualmente Kairós DS cuenta con más de 400 empleados y tiene presencia nacional e internacional en México y Perú, y con un ambicioso plan de expansión.
