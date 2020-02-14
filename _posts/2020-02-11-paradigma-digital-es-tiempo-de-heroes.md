@@ -15,4 +15,4 @@ Estamos especializados en áreas como Strategic Design, Cloud Native, Digital DN
 
 ¿Quieres formar parte de nuestro equipo? [Conócenos un poquito más](https://www.paradigmadigital.com/quienes-somos/) o échale un vistazo a nuestras [ofertas de empleo](https://www.paradigmadigital.com/empleo/) y envíanos tu currículum. Vamos, cambiemos el mundo.
 
-![Plain Concepts](assets/img/paradigma2020-2.jpg "Es tiempo de héroes")
+![Paradigma](assets/img/paradigma2020-2.jpg "Es tiempo de héroes")
